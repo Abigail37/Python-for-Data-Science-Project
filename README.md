@@ -35,6 +35,6 @@ This project analyzes the historical stock prices and quarterly revenue of Tesla
 * IBM Skills Network sample datasets
 
 ## Author
-Abigail Ogunmola
+
 **Abigail Ogunmola**
 
